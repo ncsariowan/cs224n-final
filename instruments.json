@@ -1,0 +1,36 @@
+{
+    "bass": {
+        "names": ["bass"]
+    },
+    "brass": {
+        "names": ["brass instrument", "horn", "trombone", "trumpet", "french horn"]
+    },
+    "flute": {
+        "names": ["flute"]
+    },
+    "guitar": {
+        "names": ["guitar"]
+    },
+    "keyboard": {
+        "names": ["keyboard", "piano"]
+    },
+    "mallet": {
+        "names": ["mallet", "xylophone", "vibraphone"]
+    },
+    "organ": {
+        "names": ["organ"]
+    },
+
+    "reed": {
+        "names": ["reed instrument", "wind instrument", "oboe", "saxophone", "bassoon", "clarinet"]
+    }, 
+    "string": {
+        "names": ["stringed instrument", "violin", "cello", "viola", "string section"]
+    },
+    "synth_lead": {
+        "names": ["synth", "synthesizer", "synth lead"]
+    },
+    "vocal": {
+        "names": ["vocal", "voice", "vox"]
+    }
+}

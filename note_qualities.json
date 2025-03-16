@@ -1,0 +1,32 @@
+{
+    "bright": {
+        "synonyms": ["bright", "not dark", "not warm"]
+    },
+    "dark": {
+        "synonyms": ["not bright", "dark", "warm", "muted"]
+    },
+    "distortion": {
+        "synonyms": ["distorted", "harmonic", "crunchy", "noisy"]
+    },
+    "fast_decay": {
+        "synonyms": ["quickly decaying", "decaying", "short", "rapidly decaying"]
+    },
+    "long_release": {
+        "synonyms": ["held", "slow releasing", "long", "sustained"]
+    },
+    "multiphonic": {
+        "synonyms": ["multiphonic", "harmonic", "chordal"]
+    },
+    "nonlinear_env": {
+        "synonyms": ["modulated", "filtered", "nonlinear", "changing", "oscillating"]
+    }, 
+    "percussive": {
+        "synonyms": ["staccato", "percussive", "short", "abrupt"]
+    },
+    "reverb": {
+        "synonyms": ["reverberant", "echoing", "spacious"]
+    },
+    "tempo-synced": {
+        "synonyms": ["in time", "rhythmic", "modulated"]
+    }
+}
